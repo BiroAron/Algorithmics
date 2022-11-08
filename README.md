@@ -1,2 +1,6 @@
 # Algorithmics
 Course homeworks
+
+This repository is dedicated to store all kinds of smaller scale projects from beginner to advanced.
+
+Language: C++;
